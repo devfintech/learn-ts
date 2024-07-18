@@ -1,0 +1,53 @@
+const BottomPage = () => {
+  return (
+    <>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+      <div>BottomPage</div>
+    </>
+  )
+}
+
+export default BottomPage
